@@ -30,5 +30,3 @@ This is a Core Java based Email Sender application developed as part of Java lea
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-## Author
-Shudanshu Sanjay Bora
