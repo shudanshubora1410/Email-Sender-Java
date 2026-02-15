@@ -25,4 +25,10 @@ This is a Core Java based Email Sender application developed as part of Java lea
 - Practical use of exception handling and external libraries
 
 ## Author
+**Shudanshu Bora**
+- GitHub: [@shudanshubora1410](https://github.com/shudanshubora1410)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Author
 Shudanshu Sanjay Bora
