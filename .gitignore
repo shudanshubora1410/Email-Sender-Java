@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+*.exe
+*.jar
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+
+# IDE
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
